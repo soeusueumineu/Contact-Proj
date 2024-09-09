@@ -5,5 +5,5 @@
 <img src="https://img.shields.io/badge/Python-3766AB?style=for-the-badge&logo=Python&logoColor=white"/> 
 ## 기능 설명
 #### Proj.py 파일 참고.
-- 
-- 
+- 내용
+- 내용
